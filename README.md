@@ -7,9 +7,8 @@ the new registry.  It can be time consuming but `satchel` provides a workflow th
 ## Building
 
 ```bash
-$ go get github.com/maddisondavid/satchel
-$ go install github.com/maddisondavid/satchel/cmd/satchel
-
+$> go get github.com/maddisondavid/satchel
+$> $GOPATH/bin/satchel
 ```
 
 ## Using
