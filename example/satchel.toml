@@ -1,0 +1,13 @@
+# Specifies the dependencies for DockerPack
+
+
+[[image]]
+  repository = "java"
+  tag = "8"
+  public = true
+
+[[image]]
+  registry = "gcr.io"
+  repository = "google-containers/pause"
+  tag = "1.0"
+  public = false
